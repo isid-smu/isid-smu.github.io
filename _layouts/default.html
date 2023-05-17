@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="{{ page.language }}" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="author" content="Stat Math Unit, ISI Delhi" />
+  <title>{{ page.title }}</title>
+
+  <link rel="stylesheet"
+	href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+	integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+	crossorigin="anonymous">
+
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto Serif" >
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto Sans" >
+  <link rel="stylesheet" href="/assets/styles/custom.css"> <!-- custom styles -->
+
+</head>
+
+<body>
+  <div id="page-content">
+    <section>
+
+      <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top" id="topnav">
+	<div class="container-fluid">
+
+	  <div class="navbar-header">
+	    <div class="btn-group navbar-nav nav-item dropdown">
+	      <button type="button" class="btn nav-link"
+		      data-toggle="dropdown" aria-haspopup="true"
+		      aria-expanded="false">
+                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 16" width="24" height="32">
+                   <path fill-rule="evenodd" d="M11.41 9H.59C0 9 0 8.59 0 8c0-.59 0-1 .59-1H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1h.01zm0-4H.59C0 5 0 4.59 0 4c0-.59 0-1 .59-1H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1h.01zM.59 11H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1H.59C0 13 0 12.59 0 12c0-.59 0-1 .59-1z">
+                   </path>
+                 </svg>
+	      </button>
+	      <div class="dropdown-menu">
+		<a href="/" class="dropdown-item" role="button">
+		  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="24" height="24">
+		    <path fill-rule="evenodd" d="M16 9l-3-3V2h-2v2L8 1 0 9h2l1 5c0 .55.45 1 1 1h8c.55 0 1-.45 1-1l1-5h2zm-4 5H9v-4H7v4H4L2.81 7.69 8 2.5l5.19 5.19L12 14z"></path>
+		  </svg>
+		  Home
+		</a>
+		<a href="{{page.url | replace:'.html','.epub'}}" class="dropdown-item" role="button">
+		  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+		    <path fill-rule="evenodd" d="M4 6h3V0h2v6h3l-4 4-4-4zm11-4h-4v1h4v8H1V3h4V2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1z"></path>
+		  </svg>
+		  Download EPUB
+		</a>
+		<span class="dropdown-item" role="button">
+		  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="24" height="24">
+		    <path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"></path>
+		  </svg>
+		  Contents
+		</span>
+
+{% include toc.html html=content sanitize=false class="list-group" item_class="list-group-item" h_min=1 h_max=1 %}
+
+	      </div>
+	    </div>
+	  </div>
+
+	  <div class="navbar-header">
+	    <span class="custom-nav-title h1 d-inline">{{ page.title }}</span>
+	  </div>
+
+	  <div class="navbar-header">
+	    <span class="custom-nav-title d-inline">{{ page.author }}</span>
+	  </div>
+
+	</div>
+      </nav>
+
+      <div class="container-fluid custom-main-content">
+	
+	<div class="d-none d-print-block">
+	  <p class="h1 title">{{ page.title }}</p>
+	  <p class="h2 author">{{ page.author }}</p>
+	  <h1>সূচীপত্র</h1>
+{% include toc.html html=content sanitize=false class="custom-toc-print" h_min=1 h_max=1 %}
+	</div>
+	  
+
+	  {{ content }}
+
+      </div>
+    </section>
+  </div>
+
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"
+	integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+	crossorigin="anonymous">
+</script>
+  
+<script src="/assets/scripts/jquery.bootstrap-autohidingnavbar.js" ></script>
+
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+	integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+	crossorigin="anonymous">
+</script>
+
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+	integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+	crossorigin="anonymous">
+</script>
+
+
+<script type="text/javascript">
+// make navbar auto-hide on scroll
+$(document).ready(
+    function() {
+	$("#topnav").autoHidingNavbar();
+	$("img.float-right").addClass("d-none d-md-block");
+    }
+);
+</script>
+
+</body>
+</html>

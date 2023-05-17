@@ -1,0 +1,120 @@
+body
+{
+    padding-top: 5rem;
+    font-family: 'Noto Sans Bengali', 'Noto Sans';
+}
+
+@media print {
+    body
+    {
+	font-family: 'Noto Sans Bengali', 'Noto Serif';
+	font-size: 110%;
+    }
+    pre code
+    {
+	font-size: 100%;
+    }
+    h1
+    {
+	page-break-before: always;
+    }
+}
+
+pre code
+{
+    font-family: 'Noto Sans Bengali', 'Noto Sans';
+}
+
+img
+{
+    display: block;
+    !margin-left: auto;
+    !margin-right: auto;
+    width: 100%;
+}
+
+pre
+{
+    padding: 0.5em;
+    font-weight: normal;
+    font-size: 90%;
+    border: none;
+}
+
+h1, h2, h3
+{
+    padding: 5px;
+    font-family: 'Noto Sans Bengali', 'Noto Serif';
+}
+
+h1 { font-size: 1.5rem; }
+h2 { font-size: 1.35rem; }
+h3 { font-size: 1.2rem; }
+
+.nav-link
+{
+    fill: rgba(255, 255, 255, 0.5);
+    text-decoration: none;
+    padding: 5px;
+}
+
+.custom-nav-title 	/* for author/title */
+{
+    color: #ffffff;
+}
+
+.nav-link:hover
+{
+    fill: #ffffff;
+}
+
+
+.dropdown-menu {         
+    max-height: 85vh;
+    overflow-y: auto;
+}
+
+ul.title-list
+{
+    list-style: none;
+}
+
+.dropdown-menu ul, ul.custom-toc-print
+{ 
+    display: inline;
+    list-style: none;
+    list-style-position: inside;
+}
+
+li.list-group-item
+{ 
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 2.25rem;
+    padding-right: 2.25rem;
+}
+
+
+li.list-group-item a, ul.custom-toc-print li a
+{ 
+    text-decoration: none;
+    color: inherit;
+}
+
+.dropdown-menu li:hover 
+{ 
+    background-color: #efefef;
+}
+
+div.custom-main-content
+{
+    max-width: 1000px;
+    margin: auto;
+}
+
+img.img-fluid
+{
+    width: "100% \9"; /* IE bug workaround?*/
+    max-height: 500px;
+}
+
