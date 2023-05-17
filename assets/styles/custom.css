@@ -116,6 +116,7 @@ div.custom-main-content
     margin: auto;
     background: #F0F8CF;
     padding: 10px;
+    min-height: 560px;
 }
 
 img.img-fluid
