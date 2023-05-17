@@ -15,9 +15,9 @@ available here.
 
 ## 1. Long Term post-doctoral positions - Research Associate (RA)
 
-These positions are typically for one year. Currently, one RA position
+These positions are typically for one year. <!-- Currently, one RA position
 is available, for which applications should be submitted by August
-31, 2022. Additional positions will be notified here as and when they
+31, 2022. --> Additional positions will be notified here as and when they
 become available.
 
 For an RA position in StatMath Unit, ISI Delhi, please send your
