@@ -1,12 +1,10 @@
 ---
-title: Theoretical Statistics and Mathematics Unit, ISI Delhi
+title: Academic Program
 language: en
 ---
 
 
-# Academic Program
-
-## Post-doctoral Program
+# Post-doctoral Program
 
 The ISI Delhi Stat-Math Unit regularly hosts post-doctoral fellows for
 long term (usually one year) and short terms (three months) subject to
@@ -15,7 +13,7 @@ of interests match or closely complement those of our faculty
 members. A list of faculty members and their research interests is
 available here.
 
-### 1. Long Term post-doctoral positions - Research Associate (RA)
+## 1. Long Term post-doctoral positions - Research Associate (RA)
 
 These positions are typically for one year. Currently, one RA position
 is available, for which applications should be submitted by August
@@ -30,18 +28,18 @@ The application should include a cover letter addressed to the
 Professor-in-Charge, Theoretical Statistics and Mathematics Division,
 Indian Statistical Institute, and a CV which is required to include
 
-#. Name,
-#. Address,
-#. E-mail Address,
-#. Telephone/Mobile No.,
-#. Date of birth,
-#. Academic Qualifications,
-#. Experience (if any),
-#. Date of submission of Ph.D. thesis / Date of receipt of the Ph.D. degree,
-#. List of post-doctoral positions (if any)
-#. List of publications and preprints,
-#. A research statement including a summary of work done,
-#. Copies of papers/preprints.
+* Name,
+* Address,
+* E-mail Address,
+* Telephone/Mobile No.,
+* Date of birth,
+* Academic Qualifications,
+* Experience (if any),
+* Date of submission of Ph.D. thesis / Date of receipt of the Ph.D. degree,
+* List of post-doctoral positions (if any)
+* List of publications and preprints,
+* A research statement including a summary of work done,
+* Copies of papers/preprints.
 
 Along with it at least two recommendation letters including one from
 the thesis supervisor should also be sent. The recommenders should
@@ -53,7 +51,7 @@ faculty.
 Details for the RA program are also available in this document, which
 is also available at this page.
 
-### 2. Short Term post-doctoral positions
+## 2. Short Term post-doctoral positions
 
 In addition to long term RA positions, we also have a few short term
 positions usually of duration upto three months and extendable for
@@ -68,10 +66,10 @@ We are currently accepting applications. Interested candidates should
 apply by sending an email to head_smu (at) isid.ac.in. The application
 should include information on the following:
 
-#. Date of birth
-#. Dates of PhD submission, defence, post doctoral positions, etc.
-#. List of publications and preprints
-#. A summary of work done
+* Date of birth
+* Dates of PhD submission, defence, post doctoral positions, etc.
+* List of publications and preprints
+* A summary of work done
 
 You should also send soft copies of papers, preprints, etc., and a
 brief write-up on your future research plan.
@@ -79,11 +77,11 @@ brief write-up on your future research plan.
 Once you have emailed your application material, please fill up this
 Google form.
 
-## Doctoral Program
+# Doctoral Program
 
 The ISI Delhi Stat-Math Unit runs a full-fledged doctoral program in Mathematics and Statistics. For details of the program, see here.
 
-### Admission
+## Admission
 
 A written Junior Research Fellow (JRF) selection test is conducted in
 May of each year by ISI for all Ph.D. aspirants, followed by an
@@ -93,7 +91,7 @@ NBHM, or equivalent fellowships. A written test followed by an
 interview, held in June each year, is mandatory for such
 candidates. For further details, write to the respective contact.
 
-## Masters Program
+# Masters Program
 
 The ISI Delhi Stat-Math Unit is actively involved in teaching the
 Master of Statistics (M.Stat) program. A detailed description of the
@@ -102,7 +100,7 @@ the first year of M.Stat NB-stream course, and certain specializations
 in the second year, depending on interest and availability of
 resources.
 
-### Admission
+## Admission
 
 Students with a 3-year Bachelor's degree with Statistics as a subject
 are eligible to apply for the M.Stat. NB-stream program. Selection of
@@ -114,7 +112,7 @@ interviews are usually held in June. New sessions start in late July.
 
 Sample question papers with syllabus can be found here.
 
-### Hostel Facilities and Scholarships
+## Hostel Facilities and Scholarships
 
 Hostel accommodation is given on a merit-cum-need basis subject to
 availability. At the current time, hostel accommodation is available

@@ -1,10 +1,7 @@
 ---
-title: Theoretical Statistics and Mathematics Unit, ISI Delhi
+title: About Us
 language: en
 ---
-
-
-# About Us
 
 The Indian Statistical Institute (ISI) was established by Professor
 P. C. Mahalanobis on 28th April, 1932 as a registered non-profit
