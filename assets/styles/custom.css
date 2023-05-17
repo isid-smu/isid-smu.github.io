@@ -50,7 +50,7 @@ h1, h2, h3
     font-family: 'Noto Serif';
 }
 
-h1 { font-size: 1.4rem; }
+h1 { font-size: 1.6rem; text-weight: bold; }
 h2 { font-size: 1.3rem; }
 h3 { font-size: 1.2rem; }
 
@@ -64,6 +64,7 @@ h3 { font-size: 1.2rem; }
 .custom-nav-title 	/* for author/title */
 {
     color: #ffffff;
+    font-size: 1.6rem;
 }
 
 .nav-link:hover
@@ -114,6 +115,7 @@ div.custom-main-content
     max-width: 900px;
     margin: auto;
     background: #F0F8CF;
+    padding: 10px;
 }
 
 img.img-fluid
