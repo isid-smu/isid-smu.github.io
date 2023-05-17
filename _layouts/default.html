@@ -41,20 +41,16 @@
 		  </svg>
 		  Home
 		</a>
-		<a href="{{page.url | replace:'.html','.epub'}}" class="dropdown-item" role="button">
-		  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-		    <path fill-rule="evenodd" d="M4 6h3V0h2v6h3l-4 4-4-4zm11-4h-4v1h4v8H1V3h4V2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1z"></path>
-		  </svg>
-		  Download EPUB
-		</a>
-		<span class="dropdown-item" role="button">
-		  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="24" height="24">
-		    <path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"></path>
-		  </svg>
-		  Contents
-		</span>
 
-{% include toc.html html=content sanitize=false class="list-group" item_class="list-group-item" h_min=1 h_max=1 %}
+
+		<a href="about.html" class="dropdown-item" role="button">About Us</a>
+		<a href="academics.html" class="dropdown-item" role="button">Academic Program</a>
+		<a href="faculty.html" class="dropdown-item" role="button">Faculty</a>
+		<a href="visitors.html" class="dropdown-item" role="button">Visitors</a>
+		<a href="students.html" class="dropdown-item" role="button">Students</a>
+		<a href="seminars.html" class="dropdown-item" role="button">Seminars</a>
+		<!-- <a href=".html" class="dropdown-item" role="button">Preprints?</a> -->
+		<a href="general.html" class="dropdown-item" role="button">General Information</a>
 
 	      </div>
 	    </div>
@@ -64,26 +60,9 @@
 	    <span class="custom-nav-title h1 d-inline">{{ page.title }}</span>
 	  </div>
 
-	  <div class="navbar-header">
-	    <span class="custom-nav-title d-inline">{{ page.author }}</span>
-	  </div>
-
 	</div>
       </nav>
 
-      <div class="container-fluid custom-main-content">
-	
-	<div class="d-none d-print-block">
-	  <p class="h1 title">{{ page.title }}</p>
-	  <p class="h2 author">{{ page.author }}</p>
-	  <h1>সূচীপত্র</h1>
-{% include toc.html html=content sanitize=false class="custom-toc-print" h_min=1 h_max=1 %}
-	</div>
-	  
-
-	  {{ content }}
-
-      </div>
     </section>
   </div>
 
