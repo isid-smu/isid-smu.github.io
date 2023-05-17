@@ -119,6 +119,18 @@ div.custom-main-content
     min-height: 560px;
 }
 
+div.footer
+{
+    max-width: 900px;
+    margin: auto;
+    background: #F0F8CF;
+    padding: 10px;
+    text-align: center;
+    background: #B15928;
+    color: #FFFF99;
+}
+
+
 img.img-fluid
 {
     width: "100% \9"; /* IE bug workaround?*/
