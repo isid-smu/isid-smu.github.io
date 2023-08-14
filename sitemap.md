@@ -28,11 +28,11 @@ layout: default
 	
 - Events
 
-	- SMUD Seminars
+	- SMUD Seminars [dynamic]
 	
-		- Current
+		- Upcoming
 		
-		- Past
+		- Past - Yearwise ?
 	
 	- Conferences and Workshops
 	

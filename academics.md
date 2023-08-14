@@ -1,6 +1,7 @@
 ---
 title: Academic Program
 language: en
+layout: default
 ---
 
 

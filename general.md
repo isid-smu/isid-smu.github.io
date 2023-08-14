@@ -1,6 +1,7 @@
 ---
 title: General Information
 language: en
+layout: default
 ---
 
 # Related organisations

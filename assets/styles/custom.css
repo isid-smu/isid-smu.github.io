@@ -4,8 +4,6 @@ body
     font-family: 'Noto Sans';
 }
 
-
-
 @media print {
     body
     {
@@ -16,15 +14,12 @@ body
     {
 	font-size: 100%;
     }
-    h1
-    {
-	page-break-before: always;
-    }
 }
 
 pre code
 {
     font-family: 'Noto Sans';
+    font-size: 100%;
 }
 
 img
@@ -33,14 +28,6 @@ img
     !margin-left: auto;
     !margin-right: auto;
     width: 100%;
-}
-
-pre
-{
-    padding: 0.5em;
-    font-weight: normal;
-    font-size: 90%;
-    border: none;
 }
 
 h1, h2, h3
@@ -53,6 +40,29 @@ h1, h2, h3
 h1 { font-size: 1.6rem; text-weight: bold; }
 h2 { font-size: 1.3rem; }
 h3 { font-size: 1.2rem; }
+
+
+nav#left-menu {
+    /* position: fixed; */
+    float: left;
+    width: 400px;
+}
+
+
+nav#left-menu ul { 
+    display: block;
+    list-style-type: none;
+    /* list-style-position: inside; */
+    /* margin-left: 10px; */
+}
+
+
+
+
+
+
+
+
 
 .nav-link
 {
