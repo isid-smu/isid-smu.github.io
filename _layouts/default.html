@@ -18,44 +18,18 @@
 </head>
 
 <body>
-  <div id="page-content">
-    <section>
 
-      <nav class="navbar navbar-expand-md navbar-dark bg-dark" id="topnav">
-	<div class="container-fluid">
+  <!-- <div id="page-content"> -->
+  <div class="container">
 
-	  <div class="navbar-header">
-	    <div class="btn-group navbar-nav nav-item dropdown">
-	      <button type="button" class="btn nav-link"
-		      data-toggle="dropdown" aria-haspopup="true"
-		      aria-expanded="false">
-                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 16" width="24" height="32">
-                   <path fill-rule="evenodd" d="M11.41 9H.59C0 9 0 8.59 0 8c0-.59 0-1 .59-1H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1h.01zm0-4H.59C0 5 0 4.59 0 4c0-.59 0-1 .59-1H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1h.01zM.59 11H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1H.59C0 13 0 12.59 0 12c0-.59 0-1 .59-1z">
-                   </path>
-                 </svg>
-	      </button>
+    <nav id="left-menu" aria-label="Site Navigation">
+      <ul class="menu">
 
+	<li><a href="/" ><p>Home</p></a></li>
 
-	      </div>
-	    </div>
-	  </div>
+	<li><a href="about.html"><p>About Us</p></a></li>
 
-	  <div class="navbar-header">
-	    <span class="custom-nav-title h1">{{ page.title }}</span>
-	  </div>
-
-	</div>
-      </nav>
-
-
-      <nav id="left-menu" aria-label="Site Navigation">
-	<ul class="menu">
-
-	  <li><a href="/" ><p>Home</p></a></li>
-
-	  <li><a href="about.html"><p>About Us</p></a></li>
-
-	  <li><p>People
+	<li><p>People</p>
 	    <ul>
 	      <li><a href="faculty.html" ><p>Faculty</p></a></li>
 	      <li><a href="visitors.html" ><p>Visitors</p></a></li>
@@ -63,49 +37,48 @@
 	      <li><a href="staff.html" ><p>Staff</p></a></li>
 	      <li><a href="past-members.html" ><p>Past Members</p></a></li>
 	    </ul>
-	    </p>
-	  </li>
-	  
-	  <li><p>Activities</p>
-	    <ul>
-	      <li><a href="teaching.html" ><p>Teaching</p></a></li>
-	      <li><a href="research.html" ><p>Research</p></a></li>
-	    </ul>
-	  </li>
+	</li>
+	
+	<li><p>Activities</p>
+	  <ul>
+	    <li><a href="teaching.html" ><p>Teaching</p></a></li>
+	    <li><a href="research.html" ><p>Research</p></a></li>
+	  </ul>
+	</li>
 
-	  <li><p>Events</p>
-	    <ul>
-	      <li><a href="seminars.html" ><p>Seminars</p></a></li>
-	      <li><a href="confs.html" ><p>Conferences and Workshops</p></a></li>
-	    </ul>
-	  </li>
+	<li><p>Events</p>
+	  <ul>
+	    <li><a href="seminars.html" ><p>Seminars</p></a></li>
+	    <li><a href="confs.html" ><p>Conferences and Workshops</p></a></li>
+	  </ul>
+	</li>
 
-	  <li><p>Join Us</p>
-	    <ul>
-	      <li><a href="seminars.html" ><p>Faculty Positions</p></a></li>
-	      <li><a href="confs.html" ><p>Visiting Positions</p></a></li>
-	    </ul>
-	  </li>
+	<li><p>Join Us</p>
+	  <ul>
+	    <li><a href="faculty-positions.html" ><p>Faculty Positions</p></a></li>
+	    <li><a href="visiting-positions.html" ><p>Visiting Positions</p></a></li>
+	  </ul>
+	</li>
 
-	  <li><a href="general.html" ><p>General Information</p></a></li>
-	  <li><a href="sitemap.html" ><p>Site Map</p></a></p></li>
-	  
-	</ul>
-      </nav>
+	<li><a href="general.html" ><p>General Information</p></a></li>
+	<li><a href="sitemap.html" ><p>Site Map</p></a></li>
 
-      
+      </ul>
+    </nav>
+    
+   
+    <div class="header">
+      <h1 class="h1">{{ page.title }}</h1>
+    </div>
 
+    <main class="main">
+      {{ content }}
+    </main>
 
-      
-      <div class="container-fluid custom-main-content">
-	{{ content }}
-      </div>
-
-      <div class="container-fluid footer"> 
-	For feedback and queries, contact statmath [at] isid.ac.in	
-      </div>
-      
-    </section>
+    <div class="footer"> 
+      For feedback and queries, contact statmath [at] isid.ac.in	
+    </div>
+    
   </div>
 
 
