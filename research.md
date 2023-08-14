@@ -1,5 +1,5 @@
 ---
-title: Academic Program
+title: Research
 language: en
 layout: default
 ---

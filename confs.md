@@ -1,5 +1,5 @@
 ---
-title: Academic Program
+title: Faculty
 language: en
 layout: default
 ---
