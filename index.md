@@ -1,6 +1,7 @@
 ---
 title: Stat-Math Unit, ISI Delhi
 language: en
+layout: default
 ---
 
 
