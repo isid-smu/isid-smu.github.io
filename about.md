@@ -1,7 +1,7 @@
 ---
 title: About Us
 language: en
-layout: default
+layout: dropdown
 ---
 
 The Indian Statistical Institute (ISI) was established by Professor
