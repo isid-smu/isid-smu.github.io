@@ -1,7 +1,7 @@
 ---
 title: Past Visitors
 language: en
-layout: default
+layout: dropdown
 ---
 
 ## 2011

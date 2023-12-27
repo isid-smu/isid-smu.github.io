@@ -1,7 +1,7 @@
 ---
 title: Sitemap
 language: en
-layout: default
+layout: dropdown
 ---
 
 - Landing Page [Home]
@@ -37,6 +37,7 @@ layout: default
 	- Conferences and Workshops
 	
 		- Past Events
+
 
 - Contact Us [skip - put in about.html]
 

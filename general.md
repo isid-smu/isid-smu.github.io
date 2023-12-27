@@ -1,7 +1,7 @@
 ---
 title: General Information
 language: en
-layout: default
+layout: dropdown
 ---
 
 # Related organisations

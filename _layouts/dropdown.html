@@ -25,6 +25,7 @@
 </head>
 
 <body>
+  <div class="container">
   <header>
 
     <!-- https://getbootstrap.com/docs/4.0/components/navbar/ -->
@@ -85,6 +86,21 @@
 	  </li>
 
 
+	  <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Join Us
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+	      <ul class="menu">
+		<li><a href="faculty-positions.html" ><p>Faculty Positions</p></a></li>
+		<li><a href="visiting-positions.html" ><p>Visiting Positions</p></a></li>
+	      </ul>
+            </div>
+	  </li>
+
+
+	  
+
 	  <li class="nav-item active">
             <a class="nav-link" href="general.html" title="General Information">Information<span class="sr-only">general information</span></a>
 	  </li>	  
@@ -97,7 +113,7 @@
       </div>
 
       <a class="navbar-brand" href="/">
-	<p>Stat-Math Unit, ISI Delhi</p>
+	<p>SMU Delhi</p>
 	<!-- <img src="smud.svg" height="62" width="400" alt="Stat-Math Unit, ISI Delhi" /> -->
       </a>
 
@@ -106,7 +122,7 @@
 
   <main id="page-content">
     <section>
-      <div class="container">
+      <!-- <div class="container"> -->
 	<header>
 	  <h1 class="title">{{ page.title }}</h1>
 	  <p class="author">{{ page.author }}</p>
@@ -115,7 +131,7 @@
 
 	{{ content }}
 
-      </div>
+      <!-- </div> -->
     </section>
   </main>
 
@@ -141,5 +157,6 @@
   <!-- Needs to be modified to tag bindings -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.27.0/components/prism-r.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
+  </div>
 </body>
 </html>

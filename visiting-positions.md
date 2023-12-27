@@ -1,7 +1,7 @@
 ---
 title: Visiting Positions
 language: en
-layout: default
+layout: dropdown
 ---
 
 # Post-doctoral Program

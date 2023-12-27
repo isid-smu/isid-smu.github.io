@@ -1,4 +1,9 @@
 
+
+#page-content {
+    padding: 20px;
+}
+
 nav ul { 
     display: block;
     list-style: none;
@@ -29,6 +34,7 @@ nav li p
 
 nav li li p 
 {
+    color: black;
     width: 100%;
     padding: 10px;
     padding-left: 40px;

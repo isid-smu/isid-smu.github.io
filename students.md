@@ -1,7 +1,7 @@
 ---
 title: Students
 language: en
-layout: default
+layout: dropdown
 ---
 
 ## Current research fellows
@@ -33,3 +33,9 @@ layout: default
 - Pratim Mitra
 
 - Sourav Panja
+
+
+## Recent PhD Graduates
+
+- TODO (needs planning) 
+

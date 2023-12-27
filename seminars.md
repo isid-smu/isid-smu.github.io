@@ -1,7 +1,7 @@
 ---
 title: Seminars
 language: en
-layout: default
+layout: dropdown
 ---
 
 ## Upcoming seminars

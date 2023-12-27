@@ -1,11 +1,14 @@
 ---
 title: Visitors
 language: en
-layout: default
+layout: dropdown
 ---
 
 ## Current Visitors
 
+- Visitor 1, University of Blah Blah, Germany. November 15, 2023 – February 15, 2024
+
+- Visitor 2, ...
 
 
 ## Past visitors

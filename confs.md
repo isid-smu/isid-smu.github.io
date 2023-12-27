@@ -1,6 +1,14 @@
 ---
-title: Faculty
+title: Conferences and Workshops
 language: en
-layout: default
+layout: dropdown
 ---
+
+## Upcoming
+
+- something
+
+## Recent
+
+- something else
 

@@ -1,7 +1,7 @@
 ---
 title: Teaching Programs
 language: en
-layout: default
+layout: dropdown
 ---
 
 

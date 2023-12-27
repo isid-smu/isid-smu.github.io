@@ -1,7 +1,7 @@
 ---
 title: Faculty Positions
 language: en
-layout: default
+layout: dropdown
 ---
 
 The Theoretical Statistics and Mathematics Unit of ISI, Delhi provides
