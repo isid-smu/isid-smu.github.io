@@ -1,6 +1,6 @@
 ---
 title: Faculty
 language: en
-layout: layout
+layout: dropdown
 ---
 
