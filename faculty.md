@@ -1,197 +1,181 @@
 ---
 title: Faculty
 language: en
-layout: default
+layout: dropdown
 ---
-
-* * *
 
 <img class="fphoto" src="http://www.isid.ac.in/~deepayan/images/photos/antar.jpg" />
 
-Antar Bandyopadhyay
+#### Antar Bandyopadhyay
 
 Ph.D., University of California, Berkeley
 
-Areas of interest: Mathematical probability, stochastic processes, and application. Random graphs, probability on trees, recursive distributional equations. Percolation, interacting particle systems, random walks in random environment.
+_Areas of interest_: Mathematical probability, stochastic processes,
+and application. Random graphs, probability on trees, recursive
+distributional equations. Percolation, interacting particle systems,
+random walks in random environment.
 
-E Mail: antar [at] isid.ac.in
+_E Mail_: antar [at] isid.ac.in
 
-Contact Information: +91-11-41493932 , Office Room No: 208
+_Contact Information_: +91-11-41493932 , _Office Room No_: 208
 
 
 * * *
 
 <img class="fphoto" src="http://www.isid.ac.in/~statmath/faculty_photos/abhay.jpg" />
 
-Abhay G. Bhatt
+#### Abhay G. Bhatt
 
 Ph.D., Indian Statistical Institute, Delhi
 
-Areas of interest: Markov Processes and martingale problems, Stochastic Filtering Theory, Stochastic Control
+_Areas of interest_: Markov Processes and martingale problems,
+Stochastic Filtering Theory, Stochastic Control
 
-E Mail: abhay [at] isid.ac.in
+_E Mail_: abhay [at] isid.ac.in
 
-Contact Information: +91-4149-3927 , Office Room No: 203
+_Contact Information_: +91-4149-3927 , _Office Room No_: 203
 
 
 * * *
 
 <img class="fphoto" src="http://www.isid.ac.in/~deepayan/images/photos/ac_small.jpg" />
 
-Arindam Chatterjee
+#### Arindam Chatterjee
 
 Ph.D., Iowa State University
 
-Areas of interest: High Dimensional Data, Bootstrap, Time series.
+_Areas of interest_: High Dimensional Data, Bootstrap, Time series.
 
-E Mail: cha (at) isid.ac.in
+_E Mail_: cha (at) isid.ac.in
 
-Contact Information: +91-4149-3920 , Office Room No: 120
-
-
-* * *
-
-
-
-Isha Dewan
-
-Areas of interest: Competing Risks, Reliabiliy Theory, Nonparamteric Inference
-
-E Mail: isha (at) isid.ac.in
-
-Contact Information: +91-11-4149-3944 , Office Room No: 220
+_Contact Information_: +91-4149-3920 , _Office Room No_: 120
 
 
 * * *
 
+#### Isha Dewan
+
+_Areas of interest_: Competing Risks, Reliabiliy Theory, Nonparamteric Inference
+
+_E Mail_: isha (at) isid.ac.in
+
+_Contact Information_: +91-11-4149-3944 , _Office Room No_: 220
 
 
-Tanvi Jain
+* * *
+
+#### Tanvi Jain
 
 Ph.D., Indian Institute of Technology, Delhi
 
-Areas of interest: Operator Theory - Matrix Analysis, Topology
+_Areas of interest_: Operator Theory - Matrix Analysis, Topology
 
-E Mail: tanvi (at) isid.ac.in
+_E Mail_: tanvi (at) isid.ac.in
 
-Contact Information: +91-11-4149-3919 , Office Room No: 119
+_Contact Information_: +91-11-4149-3919 , _Office Room No_: 119
 
 
 * * *
 
-
-
-Shanta Laishram
+#### Shanta Laishram
 
 Ph.D., Tata Institute of Fundamental Research, Mumbai
 
-Areas of interest: Number Theory, Diophantine Equations, Irreducibility of Polynomials, Cryptography.
+_Areas of interest_: Number Theory, Diophantine Equations, Irreducibility of Polynomials, Cryptography.
 
-E Mail: shanta (at) isid.ac.in
+_E Mail_: shanta (at) isid.ac.in
 
-Contact Information: +91-11-4149-3958 , Office Room No: 310
+_Contact Information_: +91-11-4149-3958 , _Office Room No_: 310
 
 
 * * *
 
-
-
-Swagata Nandi
+#### Swagata Nandi
 
 Ph.D., Indian Institute of Technology, Kanpur
 
-Areas of interest: Non Linear Regression, Statistical Signal Processing, Surrogate Data, Survival Analysis
+_Areas of interest_: Non Linear Regression, Statistical Signal Processing, Surrogate Data, Survival Analysis
 
-E Mail: nandi (at) isid.ac.in
+_E Mail_: nandi (at) isid.ac.in
 
-Contact Information: +91-11-41493931 , Office Room No: 207
+_Contact Information_: +91-11-41493931 , _Office Room No_: 207
 
 
 * * *
 
-
-
-Arup K. Pal
+#### Arup K. Pal
 
 Ph.D., Indian Statistical Institute, Delhi
 
-Areas of interest: Quantum groups, noncommutative geometry, operator algebras.
+_Areas of interest_: Quantum groups, noncommutative geometry, operator algebras.
 
-E Mail: arup [at] isid.ac.in
+_E Mail_: arup [at] isid.ac.in
 
-Contact Information: +91-11-4149-3921 , Office Room No: 121
+_Contact Information_: +91-11-4149-3921 , _Office Room No_: 121
 
 
 * * *
 
-
-
-Issan Patri
+#### Issan Patri
 
 Ph.D., Institute of Mathematical Sciences, Chennai
 
-Areas of interest: Operator Algebras, Quantum Groups, Mathematical Biology
+_Areas of interest_: Operator Algebras, Quantum Groups, Mathematical Biology
 
-E Mail: issanp (at) isid.ac.in
+_E Mail_: issanp (at) isid.ac.in
 
-Contact Information: +91-11-4149-3940 , Office Room No: 216
+_Contact Information_: +91-11-4149-3940 , _Office Room No_: 216
 
 
 * * *
 
-
-
-Rahul Roy
+#### Rahul Roy
 
 Ph.D., Cornell University
 
-Areas of interest: Probability theory, stochastic processes, particle systems and percolation theory, random graphs, history of mathematics.
+_Areas of interest_: Probability theory, stochastic processes, particle systems and percolation theory, random graphs, history of mathematics.
 
-E Mail: rahul [at] isid.ac.in
+_E Mail_: rahul [at] isid.ac.in
 
-Contact Information: +91 11 41493905 (office), +91 11 41493981 (fax) , Office Room No: 105
+_Contact Information_: +91 11 41493905 (office), +91 11 41493981 (fax) , _Office Room No_: 105
 
 
 * * *
 
-
-
-Anish Sarkar
+#### Anish Sarkar
 
 Ph.D., Indian Statistical Institute
 
-Areas of interest: Particle systems and percolation theory, random graphs, extreme value theory
+_Areas of interest_: Particle systems and percolation theory, random graphs, extreme value theory
 
-E Mail: anish.sarkar [at] gmail (dot) com, anish [at] isid (dot) ac (dot) in
+_E Mail_: anish.sarkar [at] gmail (dot) com, anish [at] isid (dot) ac (dot) in
 
-Contact Information: +91-11-41493962 (Office Telephone) , Office Room No: 314
+_Contact Information_: +91-11-41493962 (Office Telephone) , _Office Room No_: 314
 
 
 * * *
 
-
-
-Deepayan Sarkar
+#### Deepayan Sarkar
 
 Ph.D., University of Wisconsin-Madison
 
-Areas of interest: Statistical Computing, Statistical Graphics, Computational Biology
+_Areas of interest_: Statistical Computing, Statistical Graphics, Computational Biology
 
-E Mail: deepayan.sarkar (at) gmail.com, deepayan (at) isid.ac.in
+_E Mail_: deepayan.sarkar (at) gmail.com, deepayan (at) isid.ac.in
 
-Contact Information: +91-11-41493937 (Office) , Office Room No: 213
+_Contact Information_: +91-11-41493937 (Office) , _Office Room No_: 213
 
 
 * * *
 
+#### Soham Sarkar
 
-
-Soham Sarkar
+<img class="fphoto" src="https://i1.rgstatic.net/ii/profile.image/11431281098634719-1669032231504_Q128/Soham-Sarkar-7.jpg" />
 
 Ph.D., Indian Statistical Institute, Kolkata
 
-Areas of interest: High-dimensional Data, Functional Data, Statistical Learning
+_Areas of interest_: High-dimensional Data, Functional Data, Statistical Learning
 
-E Mail: sohamsarkar (at) isid.ac.in
+_E Mail_: sohamsarkar (at) isid.ac.in
 
-Contact Information: +91-11-4149-3960 , Office Room No: 312 
+_Contact Information_: +91-11-4149-3960 , _Office Room No_: 312 
