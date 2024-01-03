@@ -1,5 +1,5 @@
 ---
-title: Faculty
+title: Past Members
 language: en
 layout: dropdown
 ---
