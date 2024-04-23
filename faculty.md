@@ -155,9 +155,9 @@ _Contact Information_: +91-11-41493962 (Office Telephone) , _Office Room No_: 31
 
 * * *
 
-#### Deepayan Sarkar
-
 <img class="fphoto" src="photos/faculty/deepayan-sarkar.jpg" />
+
+#### Deepayan Sarkar
 
 Ph.D., University of Wisconsin-Madison
 
@@ -170,9 +170,9 @@ _Contact Information_: +91-11-41493937 (Office) , _Office Room No_: 213
 
 * * *
 
-#### Soham Sarkar
-
 <img class="fphoto" src="photos/faculty/soham-sarkar.jpg" />
+
+#### Soham Sarkar
 
 Ph.D., Indian Statistical Institute, Kolkata
 
