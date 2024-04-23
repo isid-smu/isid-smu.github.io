@@ -157,6 +157,8 @@ _Contact Information_: +91-11-41493962 (Office Telephone) , _Office Room No_: 31
 
 #### Deepayan Sarkar
 
+<img class="fphoto" src="photos/faculty/deepayan-sarkar.jpg" />
+
 Ph.D., University of Wisconsin-Madison
 
 _Areas of interest_: Statistical Computing, Statistical Graphics, Computational Biology
@@ -170,7 +172,7 @@ _Contact Information_: +91-11-41493937 (Office) , _Office Room No_: 213
 
 #### Soham Sarkar
 
-<img class="fphoto" src="https://i1.rgstatic.net/ii/profile.image/11431281098634719-1669032231504_Q128/Soham-Sarkar-7.jpg" />
+<img class="fphoto" src="photos/faculty/soham-sarkar.jpg" />
 
 Ph.D., Indian Statistical Institute, Kolkata
 
