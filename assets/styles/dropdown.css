@@ -1,7 +1,7 @@
 
 @media screen {
 
-    body { background-image: url("/assets/styles/red.jpg"); }
+    body { background-image: url("red.jpg"); }
     main
     {
 	background-color: #ffffff99;
