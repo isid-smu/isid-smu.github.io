@@ -1,6 +1,14 @@
-# isid-smu.github.io
+# ISI Delhi SMU website
 
-ISI Delhi SMU website
+A preview of the web page can be seen at <https://isid-smu.github.io/>
+
+To generate a local copy, [Jekyll](https://jekyllrb.com/) is required. 
+
+* Check out the repository from <https://github.com/isid-smu/isid-smu.github.io/>
+
+* Run `jekyll build -s isid-smu.github.io/ -d static/`
+
+This should create a pure HTML version of the website in `static/`, which can be copied over to the actual server hosting the website.
 
 Useful links:
 
