@@ -34,7 +34,7 @@ Email: head_smu [at] isid.ac.in
 
 ## Secretary
 
-Mr. Imran Ahmed\
+Ms. Shuverthi Maity\
 Room 101, Faculty Block\
 Phone: +91-11-4149-3901\
 Email: statmath [at] isid.ac.in\
