@@ -6,9 +6,18 @@ layout: dropdown
 
 ## Current Visitors
 
-- Visitor 1, University of Blah Blah, Germany. November 15, 2023 – February 15, 2024
+- Ishan Mata, Aug 01,2023 - July 31, 2025
+- Mohit Mishra,  May 29, 2023 - May 28, 2025
+- Anbu Arjunan, Dec 01, 2022 – Nov 30, 2024
+- Samriddho Roy ,Sept 01, 2022 - Oct 30, 2024
+- Naresh Garg, Oct 13,2023 - Jan 12,2024
+- Sonika, Mar 12, 2024- Mar 11,2025
+- Diptesh Kumar Saha, Nov 20,2023 - Nov 19 ,2024
+- Leena Jindal, Feb 01,2024- Jan 31,2025
+- Mohan, Mar 11, 2024 - May 13,2024
+- Amrendra Singh Gill Feb 19, 2024 - May 13, 2024
+- Francois Le Maitre - April 12, 2024 - May 03 ,2024
 
-- Visitor 2, ...
 
 
 ## Past visitors
