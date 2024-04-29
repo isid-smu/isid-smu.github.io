@@ -33,13 +33,13 @@ supported by a small simulation study.
 
 ## Past Seminars
 
-- 2023
+- [2023](seminars-2023.html)
 
-- 2022
+- [2022](seminars-2022.html)
 
-- 2021
+- [2021](seminars-2021.html)
 
-- 2020
+- [2020](seminars-2020.html)
 
 
 
