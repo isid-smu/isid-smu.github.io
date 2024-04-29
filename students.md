@@ -6,7 +6,7 @@ layout: dropdown
 
 ## Current research fellows
 
-[OUTDATED]
+
 
 ### Senior Research Fellows (SRF)
 
@@ -18,21 +18,22 @@ layout: dropdown
 
 ### Junior Research Fellows (JRF)
 
-- Arnab Chattopadhyay
-
 - Deborshi Das
 
 - Saikat Das
-
-- Subarna Mandal
 
 - Saptak Bhattacharya
 
 - Saheli Dutta
 
-- Pratim Mitra
-
 - Sourav Panja
+  
+- Soumen Ghosh
+
+- Ayan Dey
+
+- Anirban Mandal
+  
 
 
 ## Recent PhD Graduates
