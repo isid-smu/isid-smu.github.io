@@ -38,13 +38,12 @@ _Contact Information_: +91-4149-3927 , _Office Room No_: 203
 
 * * *
 
-<img class="fphoto" src="http://www.isid.ac.in/~deepayan/images/photos/ac_small.jpg" />
-
+<img class="fphoto" src="photos/faculty/Arindam_Chatterjee.jpg" />
 #### Arindam Chatterjee
 
 Ph.D., Iowa State University
 
-_Areas of interest_: High Dimensional Data, Bootstrap, Time series.
+_Areas of interest_: Network data, Statistics for high-dimensional data, Resampling methods, Time series.
 
 _E Mail_: cha (at) isid.ac.in
 
