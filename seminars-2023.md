@@ -4,8 +4,8 @@ language: en
 layout: dropdown
 ---
 
-| Date | Speaker's Name | Topic | Speaker's Institute |
-|-----|----------------|--------|---------------------|
+| Date            | Speaker's Name | Topic | Speaker's Institute |
+|-----------------|----------------|--------|---------------------|
 | Dec 15, 2023  | Trishen Gunaratnam | Critical phenomena of the Blume-Capel model | University of Geneva |
 | Dec 13, 2023 | Rahul Roy | Elephant Random Walk | ISI Delhi | 
 | Dec 6, 2023 | Samriddho Roy | Complex Geometry of domains associated with the $\mu$-synthesis Problem | ISI Delhi |
