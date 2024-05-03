@@ -8,30 +8,24 @@ layout: dropdown
 
 * * *
 
-Title: **Prediction of network statistics and effects of network sampling**
+Title: Multi-source labour statistics.  Mixture of Hidden Markov Models and Machine learning tools.
 
-Speaker: **Anirban Mandal**, ISI Delhi
+Abstract: In recent decades, national statistical institutes in Europe have started to produce official statistics using multiple sources of information rather than a single source, usually a statistical survey. We show how latent variable models can be used for employment statistics in Italy using survey and administrative data, taking into account the shortcomings of the measurement process and the longitudinal structure of the data. To this end, we use a mixture of hidden Markov models, a longitudinal extension of latent class analysis. We also show how machine learning methods can be used to predict individual occupational status. This approach is based on the application of decision tree and random forest techniques, which are often used to classify large amounts of data.
 
-Date: **August 16, 2023** (Wednesday), 3:30pm - 4:30pm (Seminar Room 2)
+Speaker: Roberta Varriale, Sapienza University of Rome
 
-**Abstract:** Large networks arise frequently and network sampling
-schemes are widely used to observe small sub-parts of such
-networks. We explore the effect of such sampling methods in the
-context of predicting network summary statistics (for the more
-extensive population network). We derive some asymptotic
-distributional results under network sampling and explore
-distributional properties of selected network summary statistics in
-some commonly used network models. We will discuss the challenges in
-the estimation of asymptotic bias and variance and also present some
-important questions regarding the choice of the proper inferential
-framework when network sampling is used. The theoretical results are
-supported by a small simulation study.
+Date: 03 May 2024 (Friday)
+
+Time: 11:30am-12:30pm
+
+Venue: Seminar Room 2
 
 * * *
 
 
 
 ## Past Seminars
+- [2024](seminars-2024.html)
 
 - [2023](seminars-2023.html)
 
