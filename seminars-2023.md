@@ -1,5 +1,5 @@
 ---
-title: Visitors
+title: Seminars
 language: en
 layout: dropdown
 ---
