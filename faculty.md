@@ -76,11 +76,14 @@ _Contact Information_: +91-11-4149-3919 , _Office Room No_: 119
 
 * * *
 
+<img class="fphoto" src="photos/faculty/Shanta_Laishram.jpeg" />
+
 #### Shanta Laishram
 
 Ph.D., Tata Institute of Fundamental Research, Mumbai
 
-_Areas of interest_: Number Theory, Diophantine Equations, Irreducibility of Polynomials, Cryptography.
+_Areas of interest_: Diophantine Equations, Binary Recurrence Sequences,  Irreducibility of Polynomials and Galois Groups, Arithmetic Dynamics,
+Prime Numbers and the number theoretic aspects of Cryptography.
 
 _E Mail_: shanta (at) isid.ac.in
 
