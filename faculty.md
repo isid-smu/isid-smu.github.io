@@ -89,7 +89,7 @@ _E Mail_: shanta (at) isid.ac.in
 
 _Contact Information_: +91-11-4149-3958 , _Office Room No_: 310
 
-_Web Page_:  [Shanta Laishram](www.isid.ac.in/~shanta)
+_Web Page_:  [Shanta Laishram](https://www.isid.ac.in/~shanta/)
 
 
 * * *
