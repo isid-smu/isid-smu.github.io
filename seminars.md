@@ -8,18 +8,18 @@ layout: dropdown
 
 * * *
 
-Title: Multi-source labour statistics.  Mixture of Hidden Markov Models and Machine learning tools.
+Title: On representations of the crystallized algebra C(SU_0(n + 1)).
 
-Abstract: In recent decades, national statistical institutes in Europe have started to produce official statistics using multiple sources of information rather than a single source, usually a statistical survey. We show how latent variable models can be used for employment statistics in Italy using survey and administrative data, taking into account the shortcomings of the measurement process and the longitudinal structure of the data. To this end, we use a mixture of hidden Markov models, a longitudinal extension of latent class analysis. We also show how machine learning methods can be used to predict individual occupational status. This approach is based on the application of decision tree and random forest techniques, which are often used to classify large amounts of data.
+Abstract: Crystallization C(SU_0(n + 1)) of the family of C*-algebras C(SU_q(n + 1)), 0<q<1 was introduced by Giri and Pal. In a recent paper, they have found
+all irreducible representations of C(SU_0(n + 1)) and observed that each of its irreducible representations can be obtained as a norm limit of irreducible representations of C(SU_q(n+1)). Furthermore, they also showed that C(SU_0(n+1)) is a type-1 C*-algebra. In this talk, I will prove that every non-degenerate representation π_0 of C(SU_0(n+1)) on a separable Hilbert space is the norm limit of a q−family of representations π_q of C(SU_q(n + 1)) on the same Hilbert Space. Keeping this as our goal, I will first discuss the Borel structure of the spectrum of C(SU_q(n + 1)), 0 ≤ q < 1. The main result will then be proved by decomposing π_0 into direct integral of irreducible representations.
 
-Speaker: Roberta Varriale, Sapienza University of Rome
+Speaker: Ayan Dey, ISI Delhi
 
-Date: 03 May 2024 (Friday)
+Date: May 15, 2024 (Wednesday)
 
-Time: 11:30am-12:30pm
+Time: 3:30pm-4:30pm
 
-Venue: Seminar Room 2
-
+Venue- Seminar Room 2
 * * *
 
 
