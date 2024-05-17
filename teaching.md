@@ -8,7 +8,7 @@ layout: dropdown
 # Doctoral Program
 
 The ISI Delhi Stat-Math Unit runs a full-fledged doctoral program in
-Mathematics and Statistics. For details of the program, see here.
+Mathematics and Statistics. PhD students are given fellowship. For details of the program, see here.
 
 ## Admission
 
@@ -28,6 +28,7 @@ M.Stat. program can be found in the brochure. Delhi currently offers
 the first year of M.Stat NB-stream course, and certain specializations
 in the second year, depending on interest and availability of
 resources.
+A stipend is offered to all admitted students.
 
 ## Admission
 
@@ -43,12 +44,11 @@ Sample question papers with syllabus can be found here.
 
 ## Hostel Facilities and Scholarships
 
-Hostel accommodation is given on a merit-cum-need basis subject to
-availability. At the current time, hostel accommodation is available
-to all admitted students. A stipend is offered to all admitted
-students (currently Rs 5000 per month). The stipend is valid initially
-for the first semester. The amount of stipend for subsequent semesters
-depends on academic performance and conduct.
+Hostel accomodation is given to MSTAT and PhD students subject to availability.
+
+A stipend is offered to all admitted students (currently Rs 5000 per month).
+The stipend is valid initially for the first semester. The amount of stipend
+for subsequent semesters depends on academic performance and conduct.
 
 More details are available in the yearly prospectus provided to all
 applicants.
