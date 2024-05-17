@@ -58,11 +58,13 @@ positions usually of duration upto three months and extendable for
 another three months in exceptional cases. These positions are also
 open to individuals who have submitted their thesis.
 
+
 Applications are usually processed three times a year. The fellowship
 amount at present is Rs 39000/- per month for those who have already
 defended their thesis, and Rs 32500/- per month prior to that.
 
-We are currently accepting applications. Interested candidates should
+Currently not avilable, we will notify once it is available.
+Interested candidates should
 apply by sending an email to head_smu (at) isid.ac.in. The application
 should include information on the following:
 
@@ -76,4 +78,11 @@ brief write-up on your future research plan.
 
 Once you have emailed your application material, please fill up this
 Google form.
+
+## 2. Post-doctoral positions with external fellowships
+
+Those aho have external fellowships like NBHM postdoc, NPDF, INSPIRE
+Faculty etc can also join for a post-doc position at TSMU, ISI Delhi.
+You should send an application to head_smu@isid.ac.in with their 
+request and necessary enclosures.
 
